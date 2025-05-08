@@ -1,7 +1,4 @@
----
-#layout: default
-title: "¡Estás invitado!"
----
+
 
 # 🎉 ¡Estás invitado a mi cumpleaños! 🎂
 
