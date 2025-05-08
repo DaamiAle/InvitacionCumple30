@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "¡Estás invitado!"
 ---
 #### Te invito a festejar mi cumpleaños.
 
@@ -12,12 +11,10 @@ title: "¡Estás invitado!"
 - 📍 **Lugar**: [Tigre 1031, Tesei](https://maps.app.goo.gl/Vv6bAT5G3VhtuPPL8)
 - 🕒 **Hora**: 13:00  
 
-
-
-¡No olvides confirmar tu asistencia!
-
-<p align="center">
-  <a href="https://wa.me/5491162595238" target="_blank">
-    <img src="https://github.com/user-attachments/assets/cc8b04a6-9ef0-456d-a47b-0e6cf5be444c" width="200" alt="Confirmar asistencia" />
-  </a>
-</p>
+>¡No olvides confirmar tu asistencia!
+>
+><p align="left">
+>  <a href="https://wa.me/5491162595238" target="_blank">
+>    <img src="https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg" width="20%" alt="Confirmar asistencia" />
+>  </a>
+></p>
