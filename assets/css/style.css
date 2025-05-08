@@ -1,6 +1,23 @@
+/*
 body {
   background-image: url('../img/invitacion-bg.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+}
+*/
+body::before {
+  content: "";
+  background-image: url('../img/invitacion-bg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  opacity: 0.2; /* podés ajustar la opacidad a gusto */
 }
