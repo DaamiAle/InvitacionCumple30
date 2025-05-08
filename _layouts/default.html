@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "es-ES" }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,6 +15,16 @@
     <![endif]-->
 
     {% include head-custom.html %}
+    
+    <style>
+      body {
+        background-image: url('../assets/img/invitacion-bg.png');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">
@@ -32,19 +42,10 @@
     </div>
     <footer>
     {% if site.github.is_project_page %}
-      <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      <p>Project maintained by {{ site.github.owner_name }}</p>
     {% endif %}
       
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    <style>
-      body::before {
-        background-image: url('../img/invitacion-bg.png');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        opacity: 0.2; /* podés ajustar la opacidad a gusto */
-      }
-    </style>
   </body>
 </html>
