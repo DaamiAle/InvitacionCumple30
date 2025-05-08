@@ -1,5 +1,6 @@
 ---
 layout: default
+title: ¡Estás invitado!
 ---
 #### Te invito a festejar mi cumpleaños.
 
