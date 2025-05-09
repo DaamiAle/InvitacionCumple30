@@ -12,7 +12,7 @@ title: ¡Estás invitado!
 
 ><p align="left">
 >  <a href="https://wa.me/5491162595238" target="_blank">
->    <img src="https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg" width="20vw" alt="Confirmar asistencia" />
+>    <img src="https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg" width="100vw" alt="Confirmar asistencia" />
 >  </a>
 ></p>
 
