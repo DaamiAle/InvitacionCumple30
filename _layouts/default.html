@@ -17,6 +17,10 @@
     {% include head-custom.html %}
     
     <style>
+      body{
+        width: 90%;
+        padding: auto;
+      }
       .wrapper{
         background: url('/InvitacionCumple30/assets/img/invitacion-bg.png') !important;
         background-size: cover !important;
@@ -24,6 +28,7 @@
         background-repeat: no-repeat !important;
         background-attachment: fixed !important;
         padding: 5%;
+        width: 90%;
       }
     </style>
   </head>
@@ -42,7 +47,7 @@
       </section>
       <footer style="padding: 0 2%;">
       {% if site.github.is_project_page %}
-        <p style="margin : 0;">Project maintained by {{ site.github.owner_name }}</p>
+        <p>Project maintained by {{ site.github.owner_name }}</p>
       {% endif %}
       </footer>
     </div>
