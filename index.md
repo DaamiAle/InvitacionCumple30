@@ -21,5 +21,5 @@ Estoy juntando para un monitor nuevo (el mío ya ve menos que yo sin anteojos �
 Si querés colaborar con la vaquita, ¡bienvenido sea! Pero lo importante es que vengas a festejar. ❤️
 <blockquote>
 <h5>Alias: </h5>
-<pre>daamiale.brubank</pre>
+<pre style="width:50%;">daamiale.brubank</pre>
 </blockquote>
