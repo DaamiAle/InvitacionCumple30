@@ -8,11 +8,10 @@ title: ¡Estás invitado!
 - 📍 **Lugar**: [Tigre 1031, Tesei](https://maps.app.goo.gl/Vv6bAT5G3VhtuPPL8)
 - 🕒 **Hora**: 13:00  
 
-> [!IMPORTANT]
 >### ¡No olvides confirmar tu asistencia!
 ><p align="left">
 >  <a href="https://wa.me/5491162595238" target="_blank">
->    <img src="https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg" width="150vw" alt="Confirmar asistencia" />
+>    <img src="https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg" width="100vw" alt="Confirmar asistencia" />
 >  </a>
 ></p>
 
@@ -20,8 +19,7 @@ title: ¡Estás invitado!
 Tranqui, no te estreses. Te dejo mi alias para que puedas aportar tu humilde o abundante obsequio.<br>
 Estoy juntando para un monitor nuevo (el mío ya ve menos que yo sin anteojos 😂).<br>
 Si querés colaborar con la vaquita, ¡bienvenido sea! Pero lo importante es que vengas a festejar. ❤️
->[!TIP]
->##### Alias: 
->```
->daamiale.brubank
->```
+<blockquote>
+<h5>Alias: </h5>
+<pre>daamiale.brubank</pre>
+</blockquote>
