@@ -55,18 +55,18 @@
     </style>
   </head>
   <body>
-    <div class="wrapper" style=">
-      <div class="card">
+    <div class="wrapper">
+      <!--div class="card"-->
         <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           {% if site.description or site.github.project_tagline %}
             <p>{{ site.description | default: site.github.project_tagline }}</p>
           {% endif %}
         </header>
-        <section style="padding:auto 5%;">
+        <section>
         {{ content }}
         </section>
-      </div>
+      <!--/div-->
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
   </body>
