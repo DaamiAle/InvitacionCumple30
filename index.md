@@ -2,7 +2,7 @@
 layout: default
 title: ¡Estás invitado!
 ---
-#### Te invito a que compartamos un momento y a festejar mi cumpleaños.<br>Si queres podes traer algo, para tomar, algo para el mate, EL MATE, o algo que a vos te guste. Es opcional.
+#### Te invito a que compartamos un momento y a festejar mi cumpleaños.<br>Si queres podes traer algo, para tomar, algo para el mate, el mate, o algo que a vos te guste. Es opcional.
 
 #### 📅 **Fecha**: Sábado 31 de Mayo de 2025.<br>📍 **Lugar**: [Tigre 1031, Tesei](https://maps.app.goo.gl/Vv6bAT5G3VhtuPPL8).<br>🕒 **Horario**: A partir de las 13:00hs.  
 
