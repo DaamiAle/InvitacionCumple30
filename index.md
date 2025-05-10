@@ -2,21 +2,19 @@
 layout: default
 title: ¡Estás invitado!
 ---
-##### Te invito a compartir una tarde y a festejar mi cumpleaños.<br>Vamos a almorzar unas pizzas charlar un rato, tomar mate, o lo que salga.<br>Si queres podes traer algo para tomar que a vos te guste, o algo para el mate / merienda.
+##### Te invito a que compartamos un momento y a festejar mi cumpleaños.<br>Si queres podes traer algo, para tomar, algo para el mate, EL MATE, o algo que a vos te guste. Es opcional.
 
-- 📅 **Fecha**: Sábado 31 de Mayo de 2025.
-- 📍 **Lugar**: [Tigre 1031, Tesei](https://maps.app.goo.gl/Vv6bAT5G3VhtuPPL8).
-- 🕒 **Horario**: A partir de las 13:00hs.  
+##### 📅 **Fecha**: Sábado 31 de Mayo de 2025.<br>📍 **Lugar**: [Tigre 1031, Tesei](https://maps.app.goo.gl/Vv6bAT5G3VhtuPPL8).<br>🕒 **Horario**: A partir de las 13:00hs.  
 
->### ¡No olvides confirmar tu asistencia!
-><p align="left">
->  <a href="https://wa.me/5491162595238" target="_blank">
->    <img src="https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg" width="100vw" alt="Confirmar asistencia" />
->  </a>
-></p>
+<h4> ¡No olvides confirmarme tu asistencia por
+    <a href="https://wa.me/5491162595238?text=%C2%A1Hola%20Daami!%20Vi%20tu%20invitaci%C3%B3n%20y%20quer%C3%ADa%20confirmar%20que%20voy%20%F0%9F%A5%B3" target="_blank">
+      <img src="https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg" width="75vw" alt="Confirmar asistencia" />
+    </a>
+  !
+</h4>
 
 #### 🎁 ¿No sabés qué regalarme?
-##### Tranqui, no te estreses. Te dejo mi alias para que puedas aportar tu humilde o abundante obsequio.<br>Estoy juntando para un monitor nuevo (el mío ya ve menos que yo sin anteojos 😂).<br>Si querés colaborar con la vaquita, ¡bienvenido sea! Pero lo importante es que vengas a festejar. ❤️
+###### Tranqui, no te estreses. Te dejo mi alias para que puedas aportar tu humilde o abundante obsequio 😂.<br>Si querés colaborar con la vaquita, ¡bienvenido sea! Pero lo importante es que vengas a festejar. ❤️
 
 >#### Alias: 
 ><pre style="width:50%;">daamiale.brubank</pre>
