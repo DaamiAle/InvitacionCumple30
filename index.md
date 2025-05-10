@@ -17,5 +17,5 @@ title: ¡Estás invitado!
 ##### Tranqui, no te estreses. Te dejo mi alias para que puedas aportar tu humilde o abundante obsequio 😂.<br>Si querés colaborar con la vaquita, ¡bienvenido sea! Pero lo importante es que vengas a festejar. ❤️
 
 ##### Alias: 
-<pre style="width:50%;color: #fff;font-weight: bold;font-style: normal;background-color: #000;">daamiale.brubank</pre>
+<pre style="width:50%;color: #fff;font-weight: bold;font-style: normal;background-color: #000;margin-left:inherit;">daamiale.brubank</pre>
 
