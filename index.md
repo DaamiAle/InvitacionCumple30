@@ -2,7 +2,7 @@
 layout: default
 title: ¡Estás invitado!
 ---
-#### Te invito a compartir una tarde y a festejar mi cumpleaños.<br>Vamos a almorzar unas pizzas charlar un rato, tomar mate, o lo que salga.<br>Si queres podes traer algo para tomar que a vos te guste, o algo para el mate / merienda.
+##### Te invito a compartir una tarde y a festejar mi cumpleaños.<br>Vamos a almorzar unas pizzas charlar un rato, tomar mate, o lo que salga.<br>Si queres podes traer algo para tomar que a vos te guste, o algo para el mate / merienda.
 
 - 📅 **Fecha**: 31 de Mayo de 2025  
 - 📍 **Lugar**: [Tigre 1031, Tesei](https://maps.app.goo.gl/Vv6bAT5G3VhtuPPL8)
@@ -16,9 +16,7 @@ title: ¡Estás invitado!
 ></p>
 
 #### 🎁 ¿No sabés qué regalarme?
-Tranqui, no te estreses. Te dejo mi alias para que puedas aportar tu humilde o abundante obsequio.<br>
-Estoy juntando para un monitor nuevo (el mío ya ve menos que yo sin anteojos 😂).<br>
-Si querés colaborar con la vaquita, ¡bienvenido sea! Pero lo importante es que vengas a festejar. ❤️
+##### Tranqui, no te estreses. Te dejo mi alias para que puedas aportar tu humilde o abundante obsequio.<br>Estoy juntando para un monitor nuevo (el mío ya ve menos que yo sin anteojos 😂).<br>Si querés colaborar con la vaquita, ¡bienvenido sea! Pero lo importante es que vengas a festejar. ❤️
 
 >#### Alias: 
 ><pre style="width:50%;">daamiale.brubank</pre>
