@@ -18,7 +18,7 @@
     
     <style>
       @media (min-width: 769px){
-        body{
+        .card{
           background: url('/InvitacionCumple30/assets/img/invitacion-bg.png') !important;
           background-size: cover !important;
           background-position: center !important;
@@ -29,7 +29,7 @@
         }
       }
       @media (max-width: 768px) {
-        body {
+        card {
           background: url('https://i.pinimg.com/736x/8d/fe/b8/8dfeb8a2a96155a901a7aa0d6a8ad524.jpg') !important;
           background-size: contain !important;
           background-position: center !important;
@@ -41,24 +41,24 @@
       }
     </style>
   </head>
-  <body>
+  <body style="padding: 5%; width: 90%;">
     <div class="wrapper" style="opacity:0.75;">
-      <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        {% if site.description or site.github.project_tagline %}
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+      <div class="card">
+        <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          {% if site.description or site.github.project_tagline %}
+            <p>{{ site.description | default: site.github.project_tagline }}</p>
+          {% endif %}
+        </header>
+        <section>
+        {{ content }}
+        </section>
+        <footer style="padding: 4% 2%; color: #999">
+        {% if site.github.is_project_page %}
+          <p>Project maintained by {{ site.github.owner_name }}</p>
         {% endif %}
-      </header>
-      <section>
-
-      {{ content }}
-
-      </section>
-      <footer style="padding: 4% 2%; color: #999">
-      {% if site.github.is_project_page %}
-        <p>Project maintained by {{ site.github.owner_name }}</p>
-      {% endif %}
-      </footer>
+        </footer>
+      </div>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
   </body>
