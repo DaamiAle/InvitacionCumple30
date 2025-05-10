@@ -17,13 +17,24 @@
     {% include head-custom.html %}
     
     <style>
-      body{
+      
+      body {
         background: url('/InvitacionCumple30/assets/img/invitacion-bg.png') !important;
-        background-size: cover !important;
         background-position: center !important;
         background-repeat: no-repeat !important;
+        background-attachment: scroll !important;
         padding: 5%;
         width: 90%;
+      }
+      @media (min-width: 769px){
+        body{
+          background-size: cover !important;
+        }
+      }
+      @media (max-width: 768px) {
+        body {
+          background-size: contain !important;
+        }
       }
     </style>
   </head>
