@@ -20,6 +20,8 @@
       @media (min-width: 769px){
         .wrapper{
           opacity:0.75;
+          width: fit-content;
+          max-width: 50%;
         }
         body{
           background: url('/InvitacionCumple30/assets/img/invitacion-bg.png') !important;
@@ -27,8 +29,9 @@
           background-position: center !important;
           background-repeat: no-repeat !important;
           background-attachment: scroll !important;
-          padding: 5%;
-          width: 90%;
+          display: flex;
+          flex-wrap: wrap;
+          align-content: center;
         }
       }
       @media (max-width: 768px) {
@@ -42,14 +45,15 @@
           background-position: center !important;
           background-repeat: no-repeat !important;
           background-attachment: scroll !important;
-          padding: 5%;
-          width: 90%;
+          display: flex;
+          flex-wrap: wrap;
+          align-content: center;
         }
       }
     </style>
   </head>
   <body>
-    <div class="wrapper">
+    <div class="wrapper" style=">
       <div class="card">
         <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
