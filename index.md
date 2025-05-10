@@ -14,7 +14,7 @@ title: ¡Estás invitado!
 </h4>
 
 ### 🎁 ¿No sabés qué regalarme?
-##### Tranqui, no te estreses. Te dejo mi alias para que puedas aportar tu humilde o abundante obsequio 😂, sino no te hagas drama, lo importante es que vengas a festejar.😎
+##### Tranqui, no te estreses. Te dejo mi alias para que puedas aportar tu humilde o abundante obsequio 😁, sino no te hagas drama, lo importante es que vengas a festejar.😎
 
 ##### Alias: 
 <pre style="width:50%;color: #fff;font-weight: bold;font-style: normal;background-color: #000;margin-left:inherit;">daamiale.brubank</pre>
