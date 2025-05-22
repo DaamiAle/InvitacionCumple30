@@ -1,62 +1,69 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "es-ES" }}">
-  <head>
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-{% seo %}
+    {% seo %}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta property="og:title" content="Mis 30 años">
+    <meta property="og:description" content="Te invito a festejar mis 30 años.">
+    <meta property="og:url" content="https://invitacioncumple30.github.io/InvitacionCumple30/">
+    <meta property="og:image" accesskey="" content="{{ '/assets/img/images.jpg' | relative_url }}">
 
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
     {% include head-custom.html %}
-    
+
     <style>
-      @media (min-width: 769px){
-        .wrapper{
-          opacity:0.75;
-          width: fit-content;
-          max-width: 50%;
-          border-radius: 10px;
+        @media (min-width: 769px) {
+            .wrapper {
+                opacity: 0.75;
+                width: fit-content;
+                max-width: 50%;
+                border-radius: 10px;
+            }
+
+            body {
+                background: url('/InvitacionCumple30/assets/img/invitacion-bg.png') !important;
+                background-size: cover !important;
+                background-position: center !important;
+                background-repeat: no-repeat !important;
+                background-attachment: scroll !important;
+                display: flex;
+                flex-wrap: wrap;
+                align-content: center;
+            }
         }
-        body{
-          background: url('/InvitacionCumple30/assets/img/invitacion-bg.png') !important;
-          background-size: cover !important;
-          background-position: center !important;
-          background-repeat: no-repeat !important;
-          background-attachment: scroll !important;
-          display: flex;
-          flex-wrap: wrap;
-          align-content: center;
+
+        @media (max-width: 768px) {
+
+            .wrapper {
+                opacity: 0.9;
+                width: fit-content;
+                max-width: 85%;
+                border-radius: 10px;
+            }
+
+            body {
+                background: url('/InvitacionCumple30/assets/img/bg-Mobile.jpg') !important;
+                background-size: contain !important;
+                background-position: center !important;
+                background-repeat: no-repeat !important;
+                background-attachment: scroll !important;
+                display: flex;
+                flex-wrap: wrap;
+                align-content: center;
+                padding: 10% 0 !important;
+            }
         }
-      }
-      @media (max-width: 768px) {
-        
-        .wrapper{
-          opacity: 0.9;
-          width: fit-content;
-          max-width: 85%;
-          border-radius: 10px;
-        }
-        body {
-          background: url('/InvitacionCumple30/assets/img/bg-Mobile.jpg') !important;
-          background-size: contain !important;
-          background-position: center !important;
-          background-repeat: no-repeat !important;
-          background-attachment: scroll !important;
-          display: flex;
-          flex-wrap: wrap;
-          align-content: center;
-          padding: 10% 0 !important;
-        }
-      }
     </style>
-  </head>
+</head>
   <body>
     <div class="wrapper">
       <!--div class="card"-->
